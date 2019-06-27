@@ -1,6 +1,6 @@
 {
   "name": "random-lotr-movie-quote",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get a random The Lord of the Rings movie quote",
   "main": "index.js",
   "scripts": {

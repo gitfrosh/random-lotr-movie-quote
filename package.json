@@ -1,0 +1,24 @@
+{
+  "name": "lotr-quote-npm",
+  "version": "1.0.0",
+  "description": "Get a random The Lord of the Rings movie quote",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitfrosh/random-lotr-movie-quote.git"
+  },
+  "keywords": [
+    "lord of the rings",
+    "movie",
+    "quote"
+  ],
+  "author": "Rike E.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitfrosh/random-lotr-movie-quote/issues"
+  },
+  "homepage": "https://github.com/gitfrosh/random-lotr-movie-quote#readme"
+}

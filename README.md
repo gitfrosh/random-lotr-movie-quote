@@ -10,7 +10,10 @@ npm install random-lotr-movie-quote
 
 ## Usage
 
-```const randomQuote = require('random-lotr-movie-quote');
+```javascript
+// code away!
+
+const randomQuote = require('random-lotr-movie-quote');
 console.log(randomQuote());
 ```
 
